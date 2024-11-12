@@ -9,11 +9,11 @@ console.log(name)
 // un numero, una stringa e un valore booleano.
 let number = 7
 let text = 'Sono un testo considerami come tale'
-let bool = 0
+const bool = true
 // Stampa tutti i valori nella console.
 console.log(number)
 console.log(text)
-Boolean(bool)
+console.log(bool)
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
